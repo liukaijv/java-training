@@ -13,6 +13,7 @@
         <module>bio-udp</module>
         <module>nio-tcp</module>
         <module>reactor</module>
+        <module>netty-hello</module>
     </modules>
 
 
