@@ -14,6 +14,9 @@
         <module>nio-tcp</module>
         <module>reactor</module>
         <module>netty-hello</module>
+        <module>nio-server</module>
+        <module>nio2-tcp</module>
+        <module>nio2-rpc</module>
     </modules>
 
 

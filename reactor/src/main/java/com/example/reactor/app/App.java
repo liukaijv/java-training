@@ -1,4 +1,4 @@
-package com.example.reactor;
+package com.example.reactor.app;
 
 public class App {
 
